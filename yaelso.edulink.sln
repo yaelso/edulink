@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaelso.edulink.Api", "yaelso.edulink.Api\yaelso.edulink.Api.csproj", "{0BDE85C0-1D3D-43E8-9047-3053B081C4EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaelso.edulink.Database", "yaelso.edulink.Database\yaelso.edulink.Database.csproj", "{520EF208-ED66-48E9-99F9-59E3C782B375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDE85C0-1D3D-43E8-9047-3053B081C4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDE85C0-1D3D-43E8-9047-3053B081C4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDE85C0-1D3D-43E8-9047-3053B081C4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDE85C0-1D3D-43E8-9047-3053B081C4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520EF208-ED66-48E9-99F9-59E3C782B375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520EF208-ED66-48E9-99F9-59E3C782B375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520EF208-ED66-48E9-99F9-59E3C782B375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520EF208-ED66-48E9-99F9-59E3C782B375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
